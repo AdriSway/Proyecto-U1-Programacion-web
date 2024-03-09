@@ -1,0 +1,32 @@
+.triangulo{
+    width: 0;
+    height: 50px;
+    border: 110px solid transparent;
+    border-top: 0;
+    border-bottom: 150px solid rgb(26, 190, 152);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+.rectangulo{
+    width: 210px;
+    height: 300px;
+    background-color: rgb(17, 72, 168);
+    margin-bottom: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.trapecio {
+    position: relative;
+    width: 250px;
+    height: 10px;
+    border-right: 60px solid transparent;
+    border-left: 60px solid transparent;
+    border-bottom: 70px solid #093e87;
+    margin-left: 550px;
+    margin-top: -20px;
+    z-index: 2;
+}
