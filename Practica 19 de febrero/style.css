@@ -1,0 +1,38 @@
+.ps5 img{
+    border-radius: 10%;
+    width: 70%;
+    height: 22%;
+    margin-bottom: 500px;
+    margin-left: 100px;
+    margin-right: auto;
+    margin-top: -1000px;
+    box-shadow: 5px 5px 10px rgba(9, 15, 182, 0.842);
+}
+
+.info {
+    color: rgb(9, 169, 151);
+    background-color: rgba(18, 17, 17, 0);
+    border-radius: 10px;
+    border-color: #ffffff;
+    border-style:dotted;
+    text-align: center;
+    opacity: 0.7;
+    margin: 250px;
+    margin-top: -490px;
+    font-size: 15px;
+    box-shadow: 5px 5px 10px rgba(6, 29, 199, 0.842);
+}
+
+
+#back {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100; 
+    background-size: cover;
+    overflow: hidden;
+}
