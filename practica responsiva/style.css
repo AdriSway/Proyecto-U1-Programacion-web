@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+    font-family: "Kode Mono", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+    text-shadow: 1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    text-align: center;
+}
+
+.navbar{
+    overflow: hidden;
+    background-color: rgb(9, 137, 154);
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    margin-top: 0px;
+    width: 100%;
+}
+
+.navbar a:hover {
+    background: #ddd;
+    color: black;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 600px) {
+    .navbar a {
+        float: none;
+        display: block;
+    }
+}
+
+.navbar a {
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    /*width: 15%;*/
+}
+
+.bacgrounStyle {
+    padding: 20px;
+    margin-top: 0px;
+    background-color: #000; /*solo si la imagen no esta disponible*/
+    height: 600px;
+    background-image: url("./img/iphone.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: rgb(255, 255, 255);
+}
+
+.bacgrounStyle01 {
+    padding: 20px;
+    margin-top: 0px;
+    background-color: #000; /*solo si la imagen no esta disponible*/
+    height: 600px;
+    background-image: url("/img/contacto-slide.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: white;
+}
+
+.bacgrounStyle02 {
+    padding: 20px;
+    margin-top: 0px;
+    background-color: #000; /*solo si la imagen no esta disponible*/
+    height: 600px;
+    background-image: url("/img/city2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: rgb(255, 255, 255);
+}
+
+.bacgrounStyle03 {
+    padding: 20px;
+    margin-top: 0px;
+    background-color: #000; /*solo si la imagen no esta disponible*/
+    height: 600px; 
+    background-image: url("/img/city.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: rgb(255, 255, 255);
+}
+
+.bacgrounStyle04 {
+    padding: 20px;
+    margin-top: 0px;
+    background-color: #000; /*solo si la imagen no esta disponible*/
+    height: 600px;
+    background-image: url("/img/nosotros.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: rgb(0, 0, 0);
+}
