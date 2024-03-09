@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<HTML>
+
+<HEAD>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> FORMM:) </title>
+</HEAD>
+
+<body>
+<H1 Style =  "text-align: center; color: white; background: black"> practica 3 </H1> 
+<H2 Style = "text-align: left; color: black; background: pink"> Inter de Miami </H2>
+<br> <br>
+ <img
+src="messi.png"
+alt="Imagen no encontrada"
+title="Imagen"
+style= "width: 100%; height: 50"
+
+/>
+
+<center>
+<blockquote>
+"Quien te dijo que esto iba a ser facil, ya sabemos que esto no es gratis y no se trata de ser solo habil y la cancgha no es para fragiles, el balon al 10 para que se arme otro lio, eh practicado lo que en la cancha eh practicado, no soy el de antes soy mi contricante"
+</blockquote>
+</center>
