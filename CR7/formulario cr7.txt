@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<HTML>
+
+<HEAD>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> FORMM:) </title>
+
+
+</HEAD>
+
+<body>
+<H1> ENCABEZADO NIVEL 1 </H1>
+<H2> ENCABEZADO NIVEL 2 </H2>
+<img src="cr7.png" 
+alt="imagen no disponible , messi gano el mundial"
+title="cristiano ronaldo dos santos aveiro"
+style="width: 100%; height:100%"/>
+<label> Nombre de usuario </label>
+<input type="text" title="campo para el nombre del usuario siuuu"/>
+<br/>
+<label> Correo electronico </label>
+<input type="text" title="campo para el correo electronico "/>
+<br/>
+<label> Direccion </label>
+<input type="text" title="campo para la direccion "/>
+<br/>
+<label> edad </label>
+<input type="text" title="campo para la edad"/>
+
+</body>
+
+</HMTL>
